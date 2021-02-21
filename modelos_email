@@ -1,0 +1,33 @@
+# Modelos de Emails
+
+### Modelo 01
+
+"Ao Setor de {cartografia, obras, etc.} da Prefeitura de {nome da cidade}:"
+
+Solicito a cedência dos arquivos digitais georreferenciados (tipo SHP, DWG, DXF, CSV, GeoPackage, etc) referentes a prédios, escolas, estradas, rios, etc (ou TUDO que tiverem), para mapeamento no projeto "OpenStreetMap", projeto de mapeamento colaborativo de mapa livre mundial, sob licença ODbL (Open Database License).
+
+links:
+   - Detalhes: https://wiki.openstreetmap.org/wiki/Pt:P%C3%A1gina_principal
+   - Licença do OSM: https://www.openstreetmap.org/copyright?locale=pt-BR
+   
+Antecipadamente agradecido e à disposição para quaisquer esclarecimentos, 
+{solicitante}
+   
+   
+### Modelo 02
+
+Prezados,
+
+Gostaria de perguntar se podemos usar os dados do {nome do site e link} no projeto colaborativo do OpenStreetMap.
+
+O OpenStreetMap é um mapa global de licença aberta mantida por uma comunidade voluntária de mapeadores de todo mundo e fornece dados a centenas de sites na internet, aplicativos de celular, ações humanitárias e instituições de diversos tipos inclusive governamentais como o INDE e IBGE (Federal).
+
+links:
+   - Detalhes: https://wiki.openstreetmap.org/wiki/Pt:P%C3%A1gina_principal
+   - Licença do OSM: https://www.openstreetmap.org/copyright?locale=pt-BR
+
+se for permitido podemos usar uma nota de crédito "Fonte: {nome}", ou outra que os senhores indicarem, nos elementos cartográficos e no registro de alterações.
+
+"Antecipadamente agradecido e à disposição para quaisquer esclarecimentos, 
+{solicitante}
+
