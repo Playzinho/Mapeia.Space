@@ -1,7 +1,7 @@
 # Mapeia.Space
-[Mapeia.Space](https://mapeia.space/) é um conjunto de micro tarefas com um objetivo de mapear cidade por cidade do Brasil usando imagens de satélite e dados abertos.
+Somos um pequeno hub de mapeamento coletivo pelo OpenStreetMap, trabalhamos para melhorar cada vez mais o acesso a todos a dados geoespaciais, estamos trabalhando desde 2020 para trazer cidades ao mapa já mapeamos cerca de 10 cidades!
 
-Nossos objetivo é criar um mapa base (estradas e edifícios) melhor para cada cidade usando dados abertos e criando novos, acreditamos em trabalho conjunto com a comunidade local para representar melhor sua realidade e que cada pessoa possa ser representada no mapa!
+Nossos objetivo é criar um mapa base (estradas e edifícios) melhor para cada cidade usando dados abertos e criando novos, acreditamos em trabalho conjunto com a comunidade local para representar melhor sua realidade e que cada pessoa possa ser representada no mapa.
 
 	Faça um ótimo Mapa! ;)
 	
