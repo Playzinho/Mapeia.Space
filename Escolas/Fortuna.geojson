@@ -1,0 +1,577 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "JI Sete Anões",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "RUA TRAVESSA JOAO LISBOA, SN MARANHAO. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 88242833",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73517939735951",
+        "Longitude": "-44.1578808019729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1578808019729,
+          -5.73517939735951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Ivar Saldanha",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO CORREDEIRA, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.8100922871381",
+        "Longitude": "-44.0697665791959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0697665791959,
+          -5.8100922871381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Leda Tajra",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "RUA SAO FRANCISCO, S/N CENTRO. 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.72960944",
+        "Longitude": "-44.15515225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.15515225,
+          -5.72960944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Elizeu Soares",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "RUA DE COLINAS, PIAUI. 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.74019887",
+        "Longitude": "-44.15183443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.15183443,
+          -5.74019887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Osvaldo Coelho De Sousa",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO MORADA NOVA, 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988067176",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.7363760471344",
+        "Longitude": "-44.158083004877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.158083004877,
+          -5.7363760471344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Pires de Saboia",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO BARRO PRETO, 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 88297500",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.66107802",
+        "Longitude": "-43.96859135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.96859135,
+          -5.66107802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Ditador Castelo Branco",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO SAO JOSE, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.69867363",
+        "Longitude": "-44.07382623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.07382623,
+          -5.69867363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Antônio Araújo Gomes",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO ALTO DOS BARROS, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73076763",
+        "Longitude": "-44.14936129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.14936129,
+          -5.73076763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Professora Carlinda Pires",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO PAU FERRADO, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.57521506914563",
+        "Longitude": "-43.8588966442105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8588966442105,
+          -5.57521506914563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Rita Matos",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO COCALINHO, 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988044932",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73638417758048",
+        "Longitude": "-44.1580978408456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1580978408456,
+          -5.73638417758048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Francisco Aprígio",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO PORTO DAS PEDRAS, ZONA RURAL. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988353842",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73071773",
+        "Longitude": "-44.14938011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.14938011,
+          -5.73071773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Manoel Duarte",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO COQUINHO, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.6737033",
+        "Longitude": "-44.04784634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.04784634,
+          -5.6737033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Deputado Edson Lobão",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "AV. NEWTON BELLO, S/N CENTRO. 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73390652891248",
+        "Longitude": "-44.1570041701198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1570041701198,
+          -5.73390652891248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI José Machado",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO SANTO ANTONIO DO APRIGIO, 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 996476116",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.58700468",
+        "Longitude": "-44.1230533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1230533,
+          -5.58700468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "Centro De Ensino Estado Do Rio De Janeiro",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "AVENIDA NEWTON BELLO, 0 CENTRO. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988450489",
+        "Dependência Administrativa": "Estadual",
+        "Latitude": "-5.7335889",
+        "Longitude": "-44.1558483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1558483,
+          -5.7335889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Doutor Getúlio Vargas",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "PRACA DA LIBERDADE, S/N CENTRO. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988229751",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.7370309",
+        "Longitude": "-44.1605393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1605393,
+          -5.7370309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Artur Carvalho",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO AGUA BRANCA, POVOADO AGUA BRANCA. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 999335906",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73385570251523",
+        "Longitude": "-44.1492958272289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1492958272289,
+          -5.73385570251523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Firmino Major",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO VARJAO, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.68328094",
+        "Longitude": "-44.06186869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.06186869,
+          -5.68328094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Professora Socorro Lopes",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO CONCEICAO, 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 88238433",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.72289965532402",
+        "Longitude": "-44.1482254745224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1482254745224,
+          -5.72289965532402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Vidal Pereira",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "RUA 21 DE ABRIL, S/N PIAUI. 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.72988933",
+        "Longitude": "-44.14714339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.14714339,
+          -5.72988933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Elmir Pinto",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO SAO JOSE, ZONA RURAL. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 35749027",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.69453368",
+        "Longitude": "-44.07093568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.07093568,
+          -5.69453368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UE Tancredo Neves",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO SAO JOAO DO ANAJA, 65695-000 Fortuna - MA.",
+        "Telefone": "",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.5900128",
+        "Longitude": "-43.9295413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9295413,
+          -5.5900128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "UI Mariano Martins",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "RUA SANTO ANTONIO, S/N PIAUI. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988083493",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73859159369022",
+        "Longitude": "-44.1549315769225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1549315769225,
+          -5.73859159369022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "JI Pequeno Príncipe",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "RUA SANTA ISABEL, SN PIAUI. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 88368807",
+        "Dependência Administrativa": "Municipal",
+        "Latitude": "-5.73182618245482",
+        "Longitude": "-44.1511525958776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1511525958776,
+          -5.73182618245482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "Centro De Ensino Estado Do Rio De Janeiro - Anexo I – São José",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Rural",
+        "Categoria Administrativa": "Pública",
+        "Endereço": "POVOADO SAO JOSE, ZONA RURAL. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988083493",
+        "Dependência Administrativa": "Estadual",
+        "Latitude": "-5.69871837738901",
+        "Longitude": "-44.073715377599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.073715377599,
+          -5.69871837738901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Escola": "Escola Comunitária de Fortuna",
+        "UF": "MA",
+        "Município": "Fortuna",
+        "Localização": "Urbana",
+        "Categoria Administrativa": "Privada",
+        "Endereço": "AV. NEWTON BELLO, CENTRO. 65695-000 Fortuna - MA.",
+        "Telefone": "+55 99 988496557",
+        "Dependência Administrativa": "Privada",
+        "Latitude": "-5.73392062",
+        "Longitude": "-44.15681809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.15681809,
+          -5.73392062
+        ]
+      }
+    }
+  ]
+}
